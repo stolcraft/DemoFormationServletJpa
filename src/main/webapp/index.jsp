@@ -30,7 +30,7 @@
 			<p class="card-text">cliquer sur le bouton !</p>
 			<form id="test" action="infos" method="post">
 				<button type="submit"  class="btn btn-primary btn-lg">Formation
-				Servlet
+			
 				</button>
 			</form>
 		</div>

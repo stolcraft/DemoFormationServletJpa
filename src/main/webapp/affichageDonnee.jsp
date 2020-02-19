@@ -12,8 +12,14 @@
 <body>
 
 
-La table est crée ! 
-et la Formation en JAVA pour objis est inscrite
+
+<div class="card" style="width: 45rem; margin:10px">
+		<h5 class="card-header">La table est crée ! </h5>
+		<div class="card-body">
+			<h5 class="card-title">et la Formation en JAVA pour objis est inscrite</h5>
+			
+		</div>
+	</div>
 
 </body>
 </html>
