@@ -9,11 +9,14 @@ dans votre serveur.
 
 2- (Pour tomcat )Executer startup.bat situé dans le dossier bin de tomcat
 
-4- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/DemoServlet/
+4- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/DemoJpaServlet/
 
 5- Laissez vous guider par l'interface WEB.
 
 6-J'utilise les technologies servlet -jsp pour afficher les infos et jpa pour la création automatique des données
+avec une insertion de champ dans la bdd
+
+7-Vous pouvez voir l'ensemble des informations dans la console tomcat
 
 
 Technologies :
@@ -24,3 +27,4 @@ JSP
 Bootstrap
 jpa
 mysql
+tomcat
